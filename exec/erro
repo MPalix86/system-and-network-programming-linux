@@ -1,0 +1,3 @@
+ld: warning: directory not found for option '-Llib'
+ld: library not found for -lapue
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
